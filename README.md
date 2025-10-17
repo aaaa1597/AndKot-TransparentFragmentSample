@@ -1,0 +1,2 @@
+# AndKot-TransparentFragmentSample
+TransparentFragment Sample
