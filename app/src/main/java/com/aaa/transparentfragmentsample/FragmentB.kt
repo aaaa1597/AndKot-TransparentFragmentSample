@@ -25,6 +25,7 @@ class FragmentB : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         view.setBackgroundColor("#80000000".toColorInt())
+//      view.setBackgroundColor(android.graphics.Color.TRANSPARENT)
     }
 
     override fun onDestroyView() {
